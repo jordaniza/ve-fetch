@@ -16,9 +16,6 @@ export async function getGauges(
 
     // Check if 'gauges.json' exists and skipFetch is not set
     if (!skipFetch && fs.existsSync(gaugesFilePath)) {
-      console.log("Reading gauges data from 'gauges.json'...");
-      const data = fs.readFileSync(gaugesFilePath, "utf8");
-      const gaugeInfos: GaugeInfo[] = JSON.parse(data);
       console.log("Gauges data already exists");
       return;
     }

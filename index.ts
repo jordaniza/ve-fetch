@@ -3,6 +3,7 @@ import { mode } from "viem/chains";
 import SimpleGaugeVoterABI from "./abis/SimpleGaugeVoter";
 import { getGauges } from "./app/getGauges";
 import { getVotes } from "./app/getVotes";
+import { aggreagateVotes } from "./app/aggregateVotes";
 
 // Initialize the client
 const client = createPublicClient({
@@ -22,3 +23,4 @@ const skipFetch = args.includes("--skip");
 await getGauges(client, skipFetch, modeVoterAddress);
 await getVotes(client, modeVoterAddress);
 await getVotes(client, bptVoterAddress);
+aggreagateVotes([modeVoterAddress, bptVoterAddress]);

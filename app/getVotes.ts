@@ -90,7 +90,7 @@ export async function getVotes(client: any, voterContract: string) {
 }
 
 // Helper function to calculate percentage as a number
-function calculatePercentage(votes: bigint, totalVotes: bigint): number {
+export function calculatePercentage(votes: bigint, totalVotes: bigint): number {
   if (totalVotes === BigInt(0)) {
     return 0;
   }
