@@ -1,0 +1,482 @@
+[
+  {
+    "address": "0xd2d87c07c512Dc2351EeD3df77Ce04A73674C5f2",
+    "ipfsURI": "ipfs://bafkreiatwr6kfitflg66bpxzitgyn2eqzgqepohvzv6yilk7wc37bbwl7y",
+    "metadata": {
+      "name": "BetMode",
+      "description": "BETMODE is an onchain gaming platform allowing anyone to become the house.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/72JBx6ry9fDuN6UNzMpm8J/9514d459344b532b0727f35f64e1450c/betmode.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Betmode S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/betmode-season-3-eligibility-for-protocol-incentives/106/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x0887960159E0863D85B3b1B2eDD6A2eC0Ef687Fa",
+    "ipfsURI": "ipfs://bafkreigifcmknkejgpafqdhpyeyawhcukckcpqlxh3frvrsfaa52mw4qpq",
+    "metadata": {
+      "name": "Mitosis EOL",
+      "description": "Mitosis aims to optimize asset allocation and automate liquidity use across Mode protocols.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/75s1tSM00SskAXwfNGjPui/44b0da85fb42548ca76eb8cb405fca02/mitosis.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Mitosis S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/mitosis-season-3-eligibility-for-protocol-incentives/157/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e",
+    "ipfsURI": "ipfs://bafkreiblgtzunxgxtdh5dwle7pxdpdfpyjxriuixeh7da5nfx65g3tnwdi",
+    "metadata": {
+      "name": "Balancer",
+      "description": "Balancer is a decentralized AMM protocol that represents a flexible building block for programmable liquidity.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/3XFcj7ngUIeB9RJIMTJakU/1c20704a9e4b5f6a4f7479a076e34635/balancer.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Balancer S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/balancer-season-3-eligibility-for-protocol-incentives/38/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x2662392083aCE1e7b48b398D50ceD557D6575de8",
+    "ipfsURI": "ipfs://bafkreietw7kznlh3z4noe34f6nc3q3rgmeqsfyvl46z4bqv7mh47v2d6qi",
+    "metadata": {
+      "name": "Velodrome Finance",
+      "description": "Velodrome Finance is a next-generation AMM that combines the best of Curve, Convex and Uniswap.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/4fUCrjKl0bHptvfZdH3pdk/8bf274d4c09fe71f80175071c3d69d8c/velo.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Velodrome S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/velodrome-superchain-program-3-eligibility-for-protocol-incentives/113/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x8184BE1bdad8c6861D2e134Ec492827d5058fB2b",
+    "ipfsURI": "ipfs://bafkreicf46g7tzzzbnhyrbprtci2sws76dkkhbz7j7o2hgmzckfntsnuge",
+    "metadata": {
+      "name": "Ether.fi",
+      "description": "EtherFi is a decentralized, non-custodial delegated staking protocol with a liquid staking token.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/4W33M04IEFd7C7XrL2xQ1X/16455f11934c554954112ba3128d6061/dapp_logo_etherfi.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Ether.fi S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/ether-fi-season-3-eligibility-for-protocol-incentives/139/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xe78D3b095AAD3C0586d00bF73686BA84171bD3C8",
+    "ipfsURI": "ipfs://bafkreihqafkzapcf7mucwig2pca34nhhbqvuwzdhyg3zygzshhb23gmp2y",
+    "metadata": {
+      "name": "PRINT3R",
+      "description": "PRINT3R created world’s first permissionless perpetual derivatives exchange, allowing users to establish chain-agnostic markets for over 16k tokens.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/1YE2adwn9KMXlffZtVpJPP/14ec115f53fee1bb1e8ef4d438db38f6/dapp_logo_pr.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Print3r S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/print3r-season-3-eligibility-for-protocol-incentives/74/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xDC462aBc805411eca41521481B1a4aBF92D1b887",
+    "ipfsURI": "ipfs://bafkreic22x7iohspm6f36le3c3unspmtzsvd3chnlzbwiqwhsgnuh2twsy",
+    "metadata": {
+      "name": "Steer Protocol",
+      "description": "Steer is a decentralized abstraction layer offering SDK for protocols & chain, enabling creation &  data-driven apps without code.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/1GThF8OnpzCJt06mcnKX6R/4e92d52abe3be5d749e5080a46168737/dapp_logo_str.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Steer S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/steer-protocol-season-3-eligibility-for-protocol-incentives/70/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xcA87e63Ddb25D0D3b1cb0FAc07A774FA3C316fB8",
+    "ipfsURI": "ipfs://bafkreih2i6pxkackstxdett4x2ozxalt6ubx4mimrmiw27t7arepoh6yh4",
+    "metadata": {
+      "name": "SwapMode",
+      "description": "SwapMode is a DEX, redefining liquidity and trading landscape with a suite of powerful tools.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/afD2qp78yl94pGXVKEzJQ/d24dde9386f63a0fbd3ee1ce501ab37e/swapm.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "SwapMode S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/swapmode-season-3-elgibility-for-protocol-incentives/64/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x98eA3eB0b8bEbbd03c1606b97313388A901e7A11",
+    "ipfsURI": "ipfs://bafkreids4auwqlqq5wdayh7r227dtsgvfpbd7xhoo7zeenavnzsvtl7i2q",
+    "metadata": {
+      "name": "KelpDAO",
+      "description": "KelpDAO is a liquid restaking protocol on Eigen Layer, offering restakers access to staking rewards & yields.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/1CFfV1azV2u0654boRHf8D/5e28f7437346bfbe9c65a0e972bed991/kelplogo.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "KelpDAO S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/kelpdao-season-3-eligibility-for-protocol-incentives/136/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x2cf13cEd9960Fd3a081108f283b7725Fe8d48C9e",
+    "ipfsURI": "ipfs://bafkreicsn3itkx6gpk3jpctfrizmvn5odvcq7h4fuboho2htbjalrsy3py",
+    "metadata": {
+      "name": "Beefy",
+      "description": "Beefy is a yield optimizer helping users auto compound yields on their crypto.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/7Hm9Um5M1dQ4rGuy5Y3gqn/3043eea3c83d3215eafe9eb638ea3302/dapp_logo_beefy.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Beefy S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/beefy-season-3-eligibility-for-protocol-incentives/110/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xDe8D1288bb0451a826c6fd2d4309c6A5ca7B276D",
+    "ipfsURI": "ipfs://bafkreiftx4v5erf4vcy2ogxucg4rq2pgfny7jnujdewx2nqgimkelfd5sa",
+    "metadata": {
+      "name": "XLINK",
+      "description": "XLink is an “Omni-chain Bitcoin Liquidity” connector within the Bitcoin ecosystem.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/skmQabiW6XsnrS8HDSGeE/89b45e2913829d852ebe9ccecc82a3d7/dapp_logo_xl.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "XLink S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/xlink-season-3-eligibility-for-protocol-incentives/132/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xa0Ab8e6a7fE4718a7Dffa6F64bdd0bfc5031EE6b",
+    "ipfsURI": "ipfs://bafkreibvbcowifhxgvututtaw5ydqw5a6ncwevgpwvmnlmtn4f3lfv2tkq",
+    "metadata": {
+      "name": "Sturdy",
+      "description": "Sturdy is a modular lending protocol that enables anyone to create a liquid money market for any token.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/16tBPK3B8Mo0YEv4rsJi6n/a9cbdea7f062f728de9f1c14c839c9f0/sturdy.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Sturdy S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/sturdy-finance-season-3-eligibility-for-protocol-incentives/95/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x1ebc5be8da50Dd5Ff45c598c53E4564EA373717b",
+    "ipfsURI": "ipfs://bafkreicpxh5mpbt7ucposnptxclt47qvvhft57s6ltfgv4oxaddxskoc24",
+    "metadata": {
+      "name": "BMX",
+      "description": "BMX introduces a parallel trading platform and wMLT on Mode, a yield-generating token that enhances capital efficiency.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/7xk3vmx8H9rdFEpOcNguAm/584eee53c63ed96841abce3e4bf72b02/bmxlogo.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "BMX S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/bmx-protocol-season-3-eligibility-for-protocol-incentives/141/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xc0367fA7D90b182eBa481FC309EE19eab31Ca867",
+    "ipfsURI": "ipfs://bafkreiaerkfh2he7qmdzgb4wqixprhx67yoxnpbi4qbx6qu5u6zgkfg2mi",
+    "metadata": {
+      "name": "ICHI Protocol",
+      "description": "ICHI enables users to deposit a single token into liquidity pools, manages risks and allows for easy withdrawals of deposits & earnings.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/1QtwfiO7SLmwtEG0Y9ZHeQ/138016261bf49fd2edafcb48d4f99e49/dapp_logo_ich.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "ICHI S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/ichi-protocol-season-3-eligibility-for-protocol-incentives/82/2"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xA9848db3fdb97C36A4a8a9300D2Bc83a8CA7dDA7",
+    "ipfsURI": "ipfs://bafkreih4ft7cldkylxiwny2rgwbs3xqtordj5a65z3sqg7ccefw6v3isau",
+    "metadata": {
+      "name": "iZUMi Finance",
+      "description": "iZUMi Finance is a decentralized exchange (DEX) offering liquidity solutions tailored to optimize capital efficiency & yields.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5AlYldiC2t6uoppM7nFoa8/3a1db1dc1da496f0a4ef1346996f5e9e/izum.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "iZUMi S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/izumi-finance-season-3-elgibility-for-protocol-incentives/88/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x95f811090e3702F75D98c750a90756A269838968",
+    "ipfsURI": "ipfs://bafkreifyzoj5rbfnukt4h3woiczzlati5w7mcbjba3iv6exxz3jtqq3bfu",
+    "metadata": {
+      "name": "Rubic",
+      "description": "Rubic is the Best Rate Finder for crypto swaps for users and DApps.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5xqR53nRFPbHB6lR9G04XR/84b26195351f0df8aa77c91087f92698/dapp_logo_rub.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Rubic S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/rubic-season-3-eligibility-for-protocol-incentives/165/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x969904a7e77381a89Ae2BeE4c4C7d1C10e3563F8",
+    "ipfsURI": "ipfs://bafkreigqwcz2ppeur7fjpg4k2httrfr65wdq2hopp2y6jmujdqinoltxtu",
+    "metadata": {
+      "name": "Ironclad Finance",
+      "description": "Ironclad is a lending market allowing users to mint stablecoin iUSD against blue-chip assets.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/2VBAQlCEy9JQ0gO60KcOJt/bbcd272770d99c5d9ae549ad63334c4f/ironc.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Ironclad S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/ironclad-season-3-eligibility-for-protocol-incentives/40/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x8e4e3B5Da08e88ed7740aA09E657a9aF21c5AF9e",
+    "ipfsURI": "ipfs://bafkreie5liltprwyvwznmfbak3z4fpedj3r5wzufvurbhcf6e6p3gv5fh4",
+    "metadata": {
+      "name": "Supswap",
+      "description": "Supswap is a Concentrated Liquidity AMM DEX, providing deep liquidity for  trading pairs.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5gyqPgbJzKlzd0Vyf3qQLd/76791ee9db3cdb3f2ce2e93432855143/sup.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Supswap S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/supswap-season-3-eligibility-for-protocol-incentives/143/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x74D599ddC5c015C45D8033670404C7C23d932C77",
+    "ipfsURI": "ipfs://bafkreidd5tsrkl727wuf5fejl3hsvtyn6m6zgymg2nxsfnunl2gkzqn45i",
+    "metadata": {
+      "name": "Web3 Packs (powered by Charged Particles)",
+      "description": "Web3 Packs is a DeFi onboarding solution offering one-click, curated portfolios of digital assets.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/554ysxmnCyOoWDvNWzPN9o/3bc52c7980e9987676e0e76b93ce450a/dapp_logo_w3p.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Web3Packs S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/web3-packs-season-3-eligibility-for-protocol-incentives/69/3"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x38eb86169A481a32020D19c867995995bA4Cf503",
+    "ipfsURI": "ipfs://bafkreieqzw2uaivdcoesncgdv264jpxfdnharfelqfackkdp3dkofrvksi",
+    "metadata": {
+      "name": "LayerBank",
+      "description": "LayerBank is an on-chain money market providing deep liquidity for leveraging various on-chain assets.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/SxJOLfVrZsJmmfmZKnebV/12823676bcb28e034cc0bee02cf6793c/lblogo.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Layerbank S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/layerbank-season-3-eligibility-for-protocol-incentives/120"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x982fEFb576A28C988637bdf37313dD69f6483254",
+    "ipfsURI": "ipfs://bafkreighyn4f5h252vcavtydsqnogqtp2etsubbsacyv3en3sb6q7phkcu",
+    "metadata": {
+      "name": "Kim Exchange",
+      "description": "KIM Exchange offers customizable liquidity solutions to optimize trading and liquidity provision activities.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/cJEeL56zJzUtRt7FhYDVV/2c3a4c55b8f86ab2cf3c1b6b145ca253/kim.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "KIM S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/kim-exchange-season-3-eligibility-for-protocol-incentives/52/5"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x8be11aBd61E07EF9d4551aCdd43bb390E3CE03Bd",
+    "ipfsURI": "ipfs://bafkreifngzxpmzelqgdqgrcio4qesf64dvwsi4ule5troapqvvbqbu2cda",
+    "metadata": {
+      "name": "Ionic Protocol",
+      "description": "Ionic Protocol is a money market for yield bearing assets with a focus on LST, LRT and RWAs.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/2KaowNvQ4Hyd8JG5d8KZxz/db90e54eac24208b376427647baf5f4d/Frame_1597885952.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Ionic S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/ionic-protocol-season-3-eligibility-for-protocol-incentives/62"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x78b7C35d2B8cdFf03971935832DDD2BBc54D8BD0",
+    "ipfsURI": "ipfs://bafkreih3mql25bugn7feofed5udjjjptkzqd32lodqvksckzghr32qlbf4",
+    "metadata": {
+      "name": "DeSyn Protocol",
+      "description": "DeSyn Protocol is a decentralized asset management infrastructure enabling creation & management of customized pool-based portfolios.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/ke16D4CnmEfYTH3OktAl8/eadb1b4c2fc37088679a232bae27d824/Frame_1597885953.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Desyn S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/desyn-protocol-season-3-elgibility-for-protocol-incentives/78"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x1Ae02CD8a4566A4f2432857D7A943765D1e3E757",
+    "ipfsURI": "ipfs://bafkreifehzwgvxgb2cukptlngxayrxq5seqlmkm6toujj6g7g4pn7rpzvq",
+    "metadata": {
+      "name": "Bedrock",
+      "description": "Bedrock, powered by RockX, is the first multi-asset liquid restaking protocol featuring uniBTC—a liquid Bitcoin staking token that maintains liquidity and earns rewards—establishing industry leadership through key partnerships and milestones like Eigenlayer support and high BTC staking on Babylon’s mainnet, and is now aiming to expand the BTCFi ecosystem by joining Mode Network’s Season 3 incentives program.",
+      "logo": "",
+      "resources": [
+        {
+          "field": "S3 Eligibility Form",
+          "value": "Mode Forum",
+          "url": "https://forum.mode.network/t/bedrock-season-3-eligibility-for-protocol-incentives/150"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xD11C970018F5B601Fa015357BeA4A5Ff3313767A",
+    "ipfsURI": "ipfs://bafkreidk6ilzpl3u225atwtb75qpbsruvr5miyi3r2uwkfkwyfylx2odcm",
+    "metadata": {
+      "name": "Lynx",
+      "description": "Lynx is a gasless Perpetuals DEX that gives exposure to crypto and forex, using any token as collateral.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/2wOtS0FuS1XYGAO0zuEgyB/9fc6678f3db4f1012a8c2031267267ef/Lynx.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Lynx S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/lynx-perpetuals-season-3-eligibility-for-protocol-incentives/114/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xE5A2Bf6E1E283947D65e0f22EA20890c38c83126",
+    "ipfsURI": "ipfs://bafkreihyhwx6cjrhtrzkmug34i6m7hwuinz5nkrfn4d7naluxnw4v6o27y",
+    "metadata": {
+      "name": "MesonFi / Free",
+      "description": "MesonFi is a pioneering cross-chain bridging protocol.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/2QWkffD3DuaftEYdyI5QfN/99e605623794f2f40e082da3131107ad/dapp_logo_meson.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Meson S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/meson-fi-free-tech-season-3-elgibility-for-protocol-incentives/97/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xaEdE06d64B98Cb8857c88dad14ff73A49dD0a828",
+    "ipfsURI": "ipfs://bafkreicdqblvyc64ixm733rvs3pxgs5l7uqnbapmri72gpvqgzhostvg5i",
+    "metadata": {
+      "name": "LISA",
+      "description": "LISA is a zero-fee liquid staking protocol on Stacks, offering the highest APY for $STX holders.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/1rlqNFALYKedEjAZtZklo0/c1bc9124a8b23249e2cb860e59042545/dapp_logo_lisa.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Lisa Labs S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/lisa-season-3-eligibility-for-protocol-incentives/134/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xD245678e417aEE2d91763F6f4eFE570FF52fD080",
+    "ipfsURI": "ipfs://bafkreigqjyzlak45aozle6lcuuo4qnybw5m6g3fyn4fyvwesueriybe3vu",
+    "metadata": {
+      "name": "Angle",
+      "description": "Angle is a decentralized stablecoin protocol behind 2 over collateralized stablecoins, EURA and USDA.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/2a4K1fou9acx39wEmVUXKX/15ae6542a2be2b7d7d4cc484d9fcbdaf/dapp_logo_ang.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Angle S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/angle-protocol-season-3-eligibility-for-protocol-incentives/102/1"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xC64bc02594bA7F777f26B7a1EeC6E6DC4a56362B",
+    "ipfsURI": "ipfs://bafkreido24srfplbmwhkt7trukllbnaff7wlcz6gunmkg73tyevd5hftia",
+    "metadata": {
+      "name": "Peapods Finance",
+      "description": "Peapods tokenizes volatile price movements to generate yield.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/3xNkm7mkVPJxsCcsPbtO0l/215c9cc36851a19a11aafd6947d45a97/pea.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Peapods S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/peapods-finance-season-3-eligibility-for-protocol-incentives/115/2"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x704377f719651C3eE6902Ff3C9D5522e5054d429",
+    "ipfsURI": "ipfs://bafkreieczy4wdlwzwpfkjcemn5pwjp5bcykta4fafyprl4lloxsivox5se",
+    "metadata": {
+      "name": "Elixir Protocol",
+      "description": "Elixir is a modular network that enables orderbook exchanges to build their own liquidity engines, reducing reliance on costly centralized market makers. Elixir also operates deUSD, a backed on-chain synthetic dollar.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/67OL9VWpOxUziY1PRIbCvk/fa5b9bf768de81bcd2370a594a0b47ff/dapp_logo_elix.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Elixir S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/elixir-season-3-eligibility-for-protocol-incentives/129"
+        }
+      ]
+    }
+  }
+]

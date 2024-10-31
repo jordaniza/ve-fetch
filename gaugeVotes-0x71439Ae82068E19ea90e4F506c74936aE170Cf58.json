@@ -1,0 +1,188 @@
+{
+  "contract": "0x71439Ae82068E19ea90e4F506c74936aE170Cf58",
+  "timestamp": "2024-10-31T17:00:12.849Z",
+  "totalVotes": "390164314225388447843138420",
+  "aggregatePercentage": "100.0000%",
+  "gauges": [
+    {
+      "gaugeAddress": "0xd2d87c07c512Dc2351EeD3df77Ce04A73674C5f2",
+      "name": "BetMode",
+      "votes": "27331091998260357671144270",
+      "percentage": "7.0050%"
+    },
+    {
+      "gaugeAddress": "0x0887960159E0863D85B3b1B2eDD6A2eC0Ef687Fa",
+      "name": "Mitosis EOL",
+      "votes": "14497934202812602694346573",
+      "percentage": "3.7159%"
+    },
+    {
+      "gaugeAddress": "0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e",
+      "name": "Balancer",
+      "votes": "10515709123224067219087951",
+      "percentage": "2.6952%"
+    },
+    {
+      "gaugeAddress": "0x2662392083aCE1e7b48b398D50ceD557D6575de8",
+      "name": "Velodrome Finance",
+      "votes": "23731348375627803563266074",
+      "percentage": "6.0824%"
+    },
+    {
+      "gaugeAddress": "0x8184BE1bdad8c6861D2e134Ec492827d5058fB2b",
+      "name": "Ether.fi",
+      "votes": "4375174264669054088249975",
+      "percentage": "1.1214%"
+    },
+    {
+      "gaugeAddress": "0xe78D3b095AAD3C0586d00bF73686BA84171bD3C8",
+      "name": "PRINT3R",
+      "votes": "3400456038601797942599441",
+      "percentage": "0.8715%"
+    },
+    {
+      "gaugeAddress": "0xDC462aBc805411eca41521481B1a4aBF92D1b887",
+      "name": "Steer Protocol",
+      "votes": "582227695238287428023028",
+      "percentage": "0.1492%"
+    },
+    {
+      "gaugeAddress": "0xcA87e63Ddb25D0D3b1cb0FAc07A774FA3C316fB8",
+      "name": "SwapMode",
+      "votes": "18541524146851435490837282",
+      "percentage": "4.7522%"
+    },
+    {
+      "gaugeAddress": "0x98eA3eB0b8bEbbd03c1606b97313388A901e7A11",
+      "name": "KelpDAO",
+      "votes": "3902078248291749374857942",
+      "percentage": "1.0001%"
+    },
+    {
+      "gaugeAddress": "0x2cf13cEd9960Fd3a081108f283b7725Fe8d48C9e",
+      "name": "Beefy",
+      "votes": "5853077556085610887171618",
+      "percentage": "1.5002%"
+    },
+    {
+      "gaugeAddress": "0xDe8D1288bb0451a826c6fd2d4309c6A5ca7B276D",
+      "name": "XLINK",
+      "votes": "200607447426777029468927",
+      "percentage": "0.0514%"
+    },
+    {
+      "gaugeAddress": "0xa0Ab8e6a7fE4718a7Dffa6F64bdd0bfc5031EE6b",
+      "name": "Sturdy",
+      "votes": "6925176102994990068566345",
+      "percentage": "1.7749%"
+    },
+    {
+      "gaugeAddress": "0x1ebc5be8da50Dd5Ff45c598c53E4564EA373717b",
+      "name": "BMX",
+      "votes": "8399939643042502994951331",
+      "percentage": "2.1529%"
+    },
+    {
+      "gaugeAddress": "0xc0367fA7D90b182eBa481FC309EE19eab31Ca867",
+      "name": "ICHI Protocol",
+      "votes": "578285861585040381187653",
+      "percentage": "0.1482%"
+    },
+    {
+      "gaugeAddress": "0xA9848db3fdb97C36A4a8a9300D2Bc83a8CA7dDA7",
+      "name": "iZUMi Finance",
+      "votes": "18086522255011386817868569",
+      "percentage": "4.6356%"
+    },
+    {
+      "gaugeAddress": "0x95f811090e3702F75D98c750a90756A269838968",
+      "name": "Rubic",
+      "votes": "1082032244597874049348116",
+      "percentage": "0.2773%"
+    },
+    {
+      "gaugeAddress": "0x969904a7e77381a89Ae2BeE4c4C7d1C10e3563F8",
+      "name": "Ironclad Finance",
+      "votes": "32594726533121260794244869",
+      "percentage": "8.3541%"
+    },
+    {
+      "gaugeAddress": "0x8e4e3B5Da08e88ed7740aA09E657a9aF21c5AF9e",
+      "name": "Supswap",
+      "votes": "13146650373832499862147368",
+      "percentage": "3.3695%"
+    },
+    {
+      "gaugeAddress": "0x74D599ddC5c015C45D8033670404C7C23d932C77",
+      "name": "Web3 Packs (powered by Charged Particles)",
+      "votes": "2784800489673178389548444",
+      "percentage": "0.7138%"
+    },
+    {
+      "gaugeAddress": "0x38eb86169A481a32020D19c867995995bA4Cf503",
+      "name": "LayerBank",
+      "votes": "10347236145968778798789170",
+      "percentage": "2.6520%"
+    },
+    {
+      "gaugeAddress": "0x982fEFb576A28C988637bdf37313dD69f6483254",
+      "name": "Kim Exchange",
+      "votes": "45761160125585602518639426",
+      "percentage": "11.7287%"
+    },
+    {
+      "gaugeAddress": "0x8be11aBd61E07EF9d4551aCdd43bb390E3CE03Bd",
+      "name": "Ionic Protocol",
+      "votes": "82866839160181777684686565",
+      "percentage": "21.2390%"
+    },
+    {
+      "gaugeAddress": "0x78b7C35d2B8cdFf03971935832DDD2BBc54D8BD0",
+      "name": "DeSyn Protocol",
+      "votes": "20136243102392295181937704",
+      "percentage": "5.1610%"
+    },
+    {
+      "gaugeAddress": "0x1Ae02CD8a4566A4f2432857D7A943765D1e3E757",
+      "name": "Bedrock",
+      "votes": "27860586602288230823342146",
+      "percentage": "7.1407%"
+    },
+    {
+      "gaugeAddress": "0xD11C970018F5B601Fa015357BeA4A5Ff3313767A",
+      "name": "Lynx",
+      "votes": "306222750846679486859809",
+      "percentage": "0.0785%"
+    },
+    {
+      "gaugeAddress": "0xE5A2Bf6E1E283947D65e0f22EA20890c38c83126",
+      "name": "MesonFi / Free",
+      "votes": "290059579537604196560811",
+      "percentage": "0.0743%"
+    },
+    {
+      "gaugeAddress": "0xaEdE06d64B98Cb8857c88dad14ff73A49dD0a828",
+      "name": "LISA",
+      "votes": "248944590257375254749040",
+      "percentage": "0.0638%"
+    },
+    {
+      "gaugeAddress": "0xD245678e417aEE2d91763F6f4eFE570FF52fD080",
+      "name": "Angle",
+      "votes": "4282113966124567469819282",
+      "percentage": "1.0975%"
+    },
+    {
+      "gaugeAddress": "0xC64bc02594bA7F777f26B7a1EeC6E6DC4a56362B",
+      "name": "Peapods Finance",
+      "votes": "235651368683764141030088",
+      "percentage": "0.0604%"
+    },
+    {
+      "gaugeAddress": "0x704377f719651C3eE6902Ff3C9D5522e5054d429",
+      "name": "Elixir Protocol",
+      "votes": "1299894232573495539808603",
+      "percentage": "0.3332%"
+    }
+  ]
+}
