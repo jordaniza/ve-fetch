@@ -1,9 +1,12 @@
+![image](https://github.com/user-attachments/assets/1661d099-681b-4fef-ba53-31a184a688c9)
+
 # ve-fetch
 
 Fetch gauge votes for certain contracts:
 
 - Writes gauge data to `gauges.json`
-- Writes gauge votes to `gaugeVotes.json`
+- Writes gauge votes to `gaugeVotes-{address}.json`
+- Aggreagtes to `combinedVotes.json`
 
 ## Install
 
