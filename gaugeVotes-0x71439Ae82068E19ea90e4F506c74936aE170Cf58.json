@@ -1,188 +1,206 @@
 {
   "contract": "0x71439Ae82068E19ea90e4F506c74936aE170Cf58",
-  "timestamp": "2024-10-31T17:24:57.944Z",
-  "totalVotes": "390164314225388447843138420",
+  "timestamp": "2024-11-15T06:18:20.029Z",
+  "totalVotes": "588766419180247083388611292",
   "aggregatePercentage": "100.0000%",
   "gauges": [
     {
       "gaugeAddress": "0xd2d87c07c512Dc2351EeD3df77Ce04A73674C5f2",
       "name": "BetMode",
-      "votes": "27331091998260357671144270",
-      "percentage": "7.0050%"
+      "votes": "45397880317629961839087104",
+      "percentage": "7.7107%"
     },
     {
       "gaugeAddress": "0x0887960159E0863D85B3b1B2eDD6A2eC0Ef687Fa",
       "name": "Mitosis EOL",
-      "votes": "14497934202812602694346573",
-      "percentage": "3.7159%"
+      "votes": "18270742603053272857134495",
+      "percentage": "3.1032%"
     },
     {
       "gaugeAddress": "0x9ff471F9f98F42E5151C7855fD1b5aa906b1AF7e",
       "name": "Balancer",
-      "votes": "10515709123224067219087951",
-      "percentage": "2.6952%"
+      "votes": "11125808226087228191347448",
+      "percentage": "1.8897%"
     },
     {
       "gaugeAddress": "0x2662392083aCE1e7b48b398D50ceD557D6575de8",
       "name": "Velodrome Finance",
-      "votes": "23731348375627803563266074",
-      "percentage": "6.0824%"
+      "votes": "31560424238028701678114614",
+      "percentage": "5.3604%"
     },
     {
       "gaugeAddress": "0x8184BE1bdad8c6861D2e134Ec492827d5058fB2b",
       "name": "Ether.fi",
-      "votes": "4375174264669054088249975",
-      "percentage": "1.1214%"
+      "votes": "5584510001273948554096980",
+      "percentage": "0.9485%"
     },
     {
       "gaugeAddress": "0xe78D3b095AAD3C0586d00bF73686BA84171bD3C8",
       "name": "PRINT3R",
-      "votes": "3400456038601797942599441",
-      "percentage": "0.8715%"
+      "votes": "4880807362554963433305388",
+      "percentage": "0.8290%"
     },
     {
       "gaugeAddress": "0xDC462aBc805411eca41521481B1a4aBF92D1b887",
       "name": "Steer Protocol",
-      "votes": "582227695238287428023028",
-      "percentage": "0.1492%"
+      "votes": "2549680060295493563897409",
+      "percentage": "0.4331%"
     },
     {
       "gaugeAddress": "0xcA87e63Ddb25D0D3b1cb0FAc07A774FA3C316fB8",
       "name": "SwapMode",
-      "votes": "18541524146851435490837282",
-      "percentage": "4.7522%"
+      "votes": "41944140166688880030071348",
+      "percentage": "7.1241%"
     },
     {
       "gaugeAddress": "0x98eA3eB0b8bEbbd03c1606b97313388A901e7A11",
       "name": "KelpDAO",
-      "votes": "3902078248291749374857942",
-      "percentage": "1.0001%"
+      "votes": "4218407968123437630039175",
+      "percentage": "0.7165%"
     },
     {
       "gaugeAddress": "0x2cf13cEd9960Fd3a081108f283b7725Fe8d48C9e",
       "name": "Beefy",
-      "votes": "5853077556085610887171618",
-      "percentage": "1.5002%"
+      "votes": "13622207680647367286347252",
+      "percentage": "2.3137%"
     },
     {
       "gaugeAddress": "0xDe8D1288bb0451a826c6fd2d4309c6A5ca7B276D",
       "name": "XLINK",
-      "votes": "200607447426777029468927",
-      "percentage": "0.0514%"
+      "votes": "81401972555376973265423",
+      "percentage": "0.0138%"
     },
     {
       "gaugeAddress": "0xa0Ab8e6a7fE4718a7Dffa6F64bdd0bfc5031EE6b",
       "name": "Sturdy",
-      "votes": "6925176102994990068566345",
-      "percentage": "1.7749%"
+      "votes": "9041372095513262689036639",
+      "percentage": "1.5356%"
     },
     {
       "gaugeAddress": "0x1ebc5be8da50Dd5Ff45c598c53E4564EA373717b",
       "name": "BMX",
-      "votes": "8399939643042502994951331",
-      "percentage": "2.1529%"
+      "votes": "4912269853426170832892981",
+      "percentage": "0.8343%"
     },
     {
       "gaugeAddress": "0xc0367fA7D90b182eBa481FC309EE19eab31Ca867",
       "name": "ICHI Protocol",
-      "votes": "578285861585040381187653",
-      "percentage": "0.1482%"
+      "votes": "5391526783721546559596709",
+      "percentage": "0.9157%"
     },
     {
       "gaugeAddress": "0xA9848db3fdb97C36A4a8a9300D2Bc83a8CA7dDA7",
       "name": "iZUMi Finance",
-      "votes": "18086522255011386817868569",
-      "percentage": "4.6356%"
+      "votes": "19962471865166981372583750",
+      "percentage": "3.3906%"
     },
     {
       "gaugeAddress": "0x95f811090e3702F75D98c750a90756A269838968",
       "name": "Rubic",
-      "votes": "1082032244597874049348116",
-      "percentage": "0.2773%"
+      "votes": "1629186022534232889863629",
+      "percentage": "0.2767%"
     },
     {
       "gaugeAddress": "0x969904a7e77381a89Ae2BeE4c4C7d1C10e3563F8",
       "name": "Ironclad Finance",
-      "votes": "32594726533121260794244869",
-      "percentage": "8.3541%"
+      "votes": "65269997725427105273941994",
+      "percentage": "11.0859%"
     },
     {
       "gaugeAddress": "0x8e4e3B5Da08e88ed7740aA09E657a9aF21c5AF9e",
       "name": "Supswap",
-      "votes": "13146650373832499862147368",
-      "percentage": "3.3695%"
+      "votes": "15410603970885028436627350",
+      "percentage": "2.6174%"
     },
     {
       "gaugeAddress": "0x74D599ddC5c015C45D8033670404C7C23d932C77",
       "name": "Web3 Packs (powered by Charged Particles)",
-      "votes": "2784800489673178389548444",
-      "percentage": "0.7138%"
+      "votes": "2954479782100948346073739",
+      "percentage": "0.5018%"
     },
     {
       "gaugeAddress": "0x38eb86169A481a32020D19c867995995bA4Cf503",
       "name": "LayerBank",
-      "votes": "10347236145968778798789170",
-      "percentage": "2.6520%"
+      "votes": "11421867376624494521393064",
+      "percentage": "1.9400%"
     },
     {
       "gaugeAddress": "0x982fEFb576A28C988637bdf37313dD69f6483254",
       "name": "Kim Exchange",
-      "votes": "45761160125585602518639426",
-      "percentage": "11.7287%"
+      "votes": "63924654123205250859901624",
+      "percentage": "10.8574%"
     },
     {
       "gaugeAddress": "0x8be11aBd61E07EF9d4551aCdd43bb390E3CE03Bd",
       "name": "Ionic Protocol",
-      "votes": "82866839160181777684686565",
-      "percentage": "21.2390%"
+      "votes": "87315583478429003527229293",
+      "percentage": "14.8303%"
     },
     {
       "gaugeAddress": "0x78b7C35d2B8cdFf03971935832DDD2BBc54D8BD0",
       "name": "DeSyn Protocol",
-      "votes": "20136243102392295181937704",
-      "percentage": "5.1610%"
+      "votes": "60122149446149368460392369",
+      "percentage": "10.2115%"
     },
     {
       "gaugeAddress": "0x1Ae02CD8a4566A4f2432857D7A943765D1e3E757",
       "name": "Bedrock",
-      "votes": "27860586602288230823342146",
-      "percentage": "7.1407%"
+      "votes": "38145435883643757055419340",
+      "percentage": "6.4789%"
     },
     {
       "gaugeAddress": "0xD11C970018F5B601Fa015357BeA4A5Ff3313767A",
       "name": "Lynx",
-      "votes": "306222750846679486859809",
-      "percentage": "0.0785%"
+      "votes": "5000731549626642870152858",
+      "percentage": "0.8494%"
     },
     {
       "gaugeAddress": "0xE5A2Bf6E1E283947D65e0f22EA20890c38c83126",
       "name": "MesonFi / Free",
-      "votes": "290059579537604196560811",
-      "percentage": "0.0743%"
+      "votes": "156287537299084170734296",
+      "percentage": "0.0265%"
     },
     {
       "gaugeAddress": "0xaEdE06d64B98Cb8857c88dad14ff73A49dD0a828",
       "name": "LISA",
-      "votes": "248944590257375254749040",
-      "percentage": "0.0638%"
+      "votes": "841049523855444346018375",
+      "percentage": "0.1428%"
     },
     {
       "gaugeAddress": "0xD245678e417aEE2d91763F6f4eFE570FF52fD080",
       "name": "Angle",
-      "votes": "4282113966124567469819282",
-      "percentage": "1.0975%"
+      "votes": "4363691732414475441232732",
+      "percentage": "0.7412%"
     },
     {
       "gaugeAddress": "0xC64bc02594bA7F777f26B7a1EeC6E6DC4a56362B",
       "name": "Peapods Finance",
-      "votes": "235651368683764141030088",
-      "percentage": "0.0604%"
+      "votes": "134336617330124705572091",
+      "percentage": "0.0228%"
     },
     {
       "gaugeAddress": "0x704377f719651C3eE6902Ff3C9D5522e5054d429",
       "name": "Elixir Protocol",
-      "votes": "1299894232573495539808603",
-      "percentage": "0.3332%"
+      "votes": "1803205331870603881260127",
+      "percentage": "0.3063%"
+    },
+    {
+      "gaugeAddress": "0x888fD63c0210942a4b9083E7Ea4447639c829DeA",
+      "name": "ModeMax",
+      "votes": "11477275698691776678541849",
+      "percentage": "1.9494%"
+    },
+    {
+      "gaugeAddress": "0x6d68c77663b285B8718C52E37a15a93d5000BfE8",
+      "name": "Giza",
+      "votes": "135705252027544257238344",
+      "percentage": "0.0230%"
+    },
+    {
+      "gaugeAddress": "0x7Bc5B89489774088f2B9f21446A24C95e31b4DD1",
+      "name": "B² Network",
+      "votes": "116526933365604176201503",
+      "percentage": "0.0198%"
     }
   ]
 }

@@ -478,5 +478,47 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x888fD63c0210942a4b9083E7Ea4447639c829DeA",
+    "ipfsURI": "ipfs://bafkreiapv3mqintroix2sxxncgm6ur7eoyx247evailly4pssqs2idhs7u",
+    "metadata": {
+      "name": "ModeMax",
+      "description": "The Ultimate One-Stop Derivatives Trading Platform on Mode.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/3NqElRCNeKkEZtdaURauIx/c0c7b93bf2bdc6afbe51a11c4fc00bb0/dapp_logo_mm.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "ModeMax S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/modemax-v2-season-3-eligibility-for-protocol-incentives/214"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x6d68c77663b285B8718C52E37a15a93d5000BfE8",
+    "ipfsURI": "ipfs://bafkreiaxgovojbav7yjgprqvfkahoapw3gmd6iul5bmwh7blxb6us6ijaa",
+    "metadata": {
+      "name": "Giza",
+      "description": "Giza’s mission is to accelerate the integration of artificial intelligence and blockchain technology, creating a more efficient, accessible, and intelligent decentralized future.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/16dseMEpFUZj5httKxrBxX/95c9bf2d3a10ab578731a0dc7e3d8438/dapp_logo_g.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Giza S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/giza-season-3-eligibility-for-protocol-incentives/399"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x7Bc5B89489774088f2B9f21446A24C95e31b4DD1",
+    "ipfsURI": "ipfs://bafkreicnj44wgk5pn6nmuhpyqo5knhzyuysxwyar25asfizb3uiubzb3de",
+    "metadata": {
+      "name": "B² Network",
+      "description": " B² Network is a modular Bitcoin Layer2 solution. It introduces B² Rollup, the first Bitcoin rollup based on verification commitment, and B² Hub, the first Bitcoin Data Availability (DA) layer that achieves finality on the Bitcoin network.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5YIbaaNd5rbcJxs3nPB1ZY/010d5ab2577086007c812301f8c9e201/dapp_logo_b2.svg",
+      "resources": []
+    }
   }
 ]
