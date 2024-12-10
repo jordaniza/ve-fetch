@@ -186,6 +186,11 @@ function makeLeaderboard(name: "mode" | "bpt") {
   });
 
   leaderboard.sort((a, b) => (b.totalStaked > a.totalStaked ? 1 : -1));
+
+  // rank them
+  leaderboard.forEach((item, index) => {
+    item.rank = index + 1;
+  });
   fs.writeFileSync(
     `${name}_leaderboard.json`,
     JSON.stringify({ [name]: leaderboard }, serializer, 2),
