@@ -171,5 +171,25 @@ function groupByAddress(
 
   return accountInfo;
 }
+console.warn("Data fetching is turned off. Enable by uncommenting the code.");
+// await Promise.all([getData(modeEscrow), getData(bptEscrow)]);
+function makeLeaderboard(name: "mode" | "bpt") {
+  const file = fs.readFileSync(`${name}_account_info.json`, "utf-8");
+  const data = JSON.parse(file);
 
-await Promise.all([getData(modeEscrow), getData(bptEscrow)]);
+  const leaderboard = Object.entries(data).map(([address, data]) => {
+    return {
+      address,
+      totalStaked: BigInt(data.totalLocked),
+      veNFTs: data.tokenIds.map((t) => t.id),
+    };
+  });
+
+  leaderboard.sort((a, b) => (b.totalStaked > a.totalStaked ? 1 : -1));
+  fs.writeFileSync(
+    `${name}_leaderboard.json`,
+    JSON.stringify({ [name]: leaderboard }, serializer, 2),
+  );
+}
+makeLeaderboard("mode");
+makeLeaderboard("bpt");
