@@ -369,11 +369,11 @@
   },
   {
     "address": "0x1Ae02CD8a4566A4f2432857D7A943765D1e3E757",
-    "ipfsURI": "ipfs://bafkreifehzwgvxgb2cukptlngxayrxq5seqlmkm6toujj6g7g4pn7rpzvq",
+    "ipfsURI": "ipfs://bafkreigvhvsnvnhwlmeswknjgirbw4wb42ivk6silt6w3sfeawlab2giq4",
     "metadata": {
       "name": "Bedrock",
       "description": "Bedrock, powered by RockX, is the first multi-asset liquid restaking protocol featuring uniBTC—a liquid Bitcoin staking token that maintains liquidity and earns rewards—establishing industry leadership through key partnerships and milestones like Eigenlayer support and high BTC staking on Babylon’s mainnet, and is now aiming to expand the BTCFi ecosystem by joining Mode Network’s Season 3 incentives program.",
-      "logo": "",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/1HpNKra8VegP3uBM8dLhHD/fcd0699b941170d4b25724725f925afc/dapp_logobtc.svg",
       "resources": [
         {
           "field": "S3 Eligibility Form",
@@ -475,6 +475,123 @@
           "field": "Project Details",
           "value": "Elixir S3 Eligibility Form",
           "url": "https://forum.mode.network/t/elixir-season-3-eligibility-for-protocol-incentives/129"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x888fD63c0210942a4b9083E7Ea4447639c829DeA",
+    "ipfsURI": "ipfs://bafkreiapv3mqintroix2sxxncgm6ur7eoyx247evailly4pssqs2idhs7u",
+    "metadata": {
+      "name": "ModeMax",
+      "description": "The Ultimate One-Stop Derivatives Trading Platform on Mode.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/3NqElRCNeKkEZtdaURauIx/c0c7b93bf2bdc6afbe51a11c4fc00bb0/dapp_logo_mm.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "ModeMax S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/modemax-v2-season-3-eligibility-for-protocol-incentives/214"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x6d68c77663b285B8718C52E37a15a93d5000BfE8",
+    "ipfsURI": "ipfs://bafkreiaxgovojbav7yjgprqvfkahoapw3gmd6iul5bmwh7blxb6us6ijaa",
+    "metadata": {
+      "name": "Giza",
+      "description": "Giza’s mission is to accelerate the integration of artificial intelligence and blockchain technology, creating a more efficient, accessible, and intelligent decentralized future.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/16dseMEpFUZj5httKxrBxX/95c9bf2d3a10ab578731a0dc7e3d8438/dapp_logo_g.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Giza S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/giza-season-3-eligibility-for-protocol-incentives/399"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x7Bc5B89489774088f2B9f21446A24C95e31b4DD1",
+    "ipfsURI": "ipfs://bafkreicnj44wgk5pn6nmuhpyqo5knhzyuysxwyar25asfizb3uiubzb3de",
+    "metadata": {
+      "name": "B² Network",
+      "description": " B² Network is a modular Bitcoin Layer2 solution. It introduces B² Rollup, the first Bitcoin rollup based on verification commitment, and B² Hub, the first Bitcoin Data Availability (DA) layer that achieves finality on the Bitcoin network.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5YIbaaNd5rbcJxs3nPB1ZY/010d5ab2577086007c812301f8c9e201/dapp_logo_b2.svg",
+      "resources": []
+    }
+  },
+  {
+    "address": "0x43b72fccac4e98D6223c9108f74cf508328274B4",
+    "ipfsURI": "ipfs://bafkreibww74u2duvwi6acymh45pwaqcllsrmpusatiujtvq6if6eo4tw24",
+    "metadata": {
+      "name": "Avalon",
+      "description": "Avalon Labs is building the premier on-chain financial center for Bitcoin, offering a seamless ecosystem that includes BTC-backed lending, a Bitcoin-backed stablecoin, yield-generating accounts, and a credit card.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5Sn5dDpcernyCwEfjM8DXT/b1b97ff270b1831f36d08d3137468d45/dapp_logo_aval.svg",
+      "resources": []
+    }
+  },
+  {
+    "address": "0x4f5c7B8f41E6E06a0A1E4eAe2f4ff176629A50C9",
+    "ipfsURI": "ipfs://bafkreier2c5fq43ssjvdwg2vvpb6qkd4j3z35dduuybajfrydrspc2z3ny",
+    "metadata": {
+      "name": "A51 Finance",
+      "description": "A51 Finance simplifies the complexities of liquidity provisioning through intent-based automation and strategy-focused tooling.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/5Js2nMzK8Y7Mik1uJalKlu/37289c0a7d1bed21c0b769143c659a18/a51_logo.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "A51 S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/a51-finance-season-3-eligibility-for-protocol-incentives/438"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x5Dc6a701833317EFBBFd5E5191A97439B0BC9CeF",
+    "ipfsURI": "ipfs://bafkreidqpav3hgozk65dp4pnul32trg23sqrbgu254awfgkkymqnborzyu",
+    "metadata": {
+      "name": "Gamma",
+      "description": "Gamma is a protocol designed for non-custodial, automated, and active management of concentrated liquidity.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/CyGzbynlnhDFDMOmTDrxL/2cd8b00e1d8910811f5f5577c4ed25a5/dapp_logo_g2.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Gamma S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/gamma-season-3-eligibility-for-protocol-incentives/471"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x186e2B901e5f9507FD217D3f70C016193613fFd9",
+    "ipfsURI": "ipfs://bafkreifrmqwichlp7zmkz6ghptfgstgpo455nrnvcskffxcmupr6fgijfy",
+    "metadata": {
+      "name": "Obelisk",
+      "description": "Obelisk is a product launched by the NodeDAO team, aiming to create a transparent and trustworthy secure BTC asset aggregation environment, fostering the development of BTC CeDeFi (Centralized-Decentralized Finance).",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/d2RBhMENjsiNZZ3nTSCwo/b103c5acd43be632d6c8a2cfec35449b/dapp_logo_oBTC.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "Obelisk S3 Eligibility Form",
+          "url": "https://forum.mode.network/t/obelisk-season-3-eligibility-for-protocol-incentives/454"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0xB51C32F37E38EB39E463a1eC4c2CA98C5f40104B",
+    "ipfsURI": "ipfs://bafkreibqu3czkjfbvycjldensjlmnezkfuiwh4olxonzqdmwjvzmukocxy",
+    "metadata": {
+      "name": "DeFAI Cartel ",
+      "address": "0xB51C32F37E38EB39E463a1eC4c2CA98C5f40104B",
+      "description": "DeFAI Cartel is a Venture DAO operating on Mode, focused on sparking DeFAI projects through our native token, $CARTEL.",
+      "logo": "https://images.ctfassets.net/sgg539jn1u5u/3ZcvmXZFWZEIyGRTy4tFnY/78d8f8ece9a82d0aafa0f657133a94d8/cartelsvg.svg",
+      "resources": [
+        {
+          "field": "Project Details",
+          "value": "DeFAI Cartel Eligibility Form",
+          "url": "https://forum.mode.network/t/defai-cartel-eligibility-for-protocol-incentives/559"
         }
       ]
     }

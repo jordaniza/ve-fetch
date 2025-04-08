@@ -1,7 +1,7 @@
 import fs from "fs";
 
-import mode from "./temp/input/mode-1434.json";
-import bpt from "./temp/input/bpt-1434.json";
+import mode from "./temp/input/mode-1435.json";
+import bpt from "./temp/input/bpt-1435.json";
 
 // Extract data and flatten it
 function toCSV(name: string, json: typeof mode | typeof bpt) {
