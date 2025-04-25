@@ -256,22 +256,6 @@
     }
   },
   {
-    "address": "0x969904a7e77381a89Ae2BeE4c4C7d1C10e3563F8",
-    "ipfsURI": "ipfs://bafkreigqwcz2ppeur7fjpg4k2httrfr65wdq2hopp2y6jmujdqinoltxtu",
-    "metadata": {
-      "name": "Ironclad Finance",
-      "description": "Ironclad is a lending market allowing users to mint stablecoin iUSD against blue-chip assets.",
-      "logo": "https://images.ctfassets.net/sgg539jn1u5u/2VBAQlCEy9JQ0gO60KcOJt/bbcd272770d99c5d9ae549ad63334c4f/ironc.svg",
-      "resources": [
-        {
-          "field": "Project Details",
-          "value": "Ironclad S3 Eligibility Form",
-          "url": "https://forum.mode.network/t/ironclad-season-3-eligibility-for-protocol-incentives/40/1"
-        }
-      ]
-    }
-  },
-  {
     "address": "0x8e4e3B5Da08e88ed7740aA09E657a9aF21c5AF9e",
     "ipfsURI": "ipfs://bafkreie5liltprwyvwznmfbak3z4fpedj3r5wzufvurbhcf6e6p3gv5fh4",
     "metadata": {
